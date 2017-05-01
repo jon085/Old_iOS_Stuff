@@ -1,0 +1,427 @@
+TJonStreetViewTST
+v7
+r0
+t367845419.200535
+cCheck dependencies
+cCpResource build/Debug-iphoneos/JonStreetViewTST.app/ResourceRules.plist /Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/JonStreetViewTST.app/Info.plist JonStreetViewTST-Info.plist
+cCompileXIB /Users/jono/Documents/JonStreetViewTST/MainWindow.xib
+cCompileXIB /Users/jono/Documents/JonStreetViewTST/JonStreetViewTSTViewController.xib
+cProcessPCH /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JonStreetViewTST_Prefix-ckhvkdwuqlzvjnhgygxbmqjbkbdw/JonStreetViewTST_Prefix.pch.gch JonStreetViewTST_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JonStreetViewTST_Prefix-bstotnhdmwissfdlfxwmlevtfgmr/JonStreetViewTST_Prefix.pch.gch JonStreetViewTST_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv6/main.o /Users/jono/Documents/JonStreetViewTST/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv6/JonStreetViewTSTAppDelegate.o /Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv6/JonStreetViewTSTViewController.o /Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv6/JonStreetViewTST normal armv6
+cCompileC build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv7/main.o /Users/jono/Documents/JonStreetViewTST/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv7/JonStreetViewTSTAppDelegate.o /Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv7/JonStreetViewTSTViewController.o /Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv7/JonStreetViewTST normal armv7
+cProcessProductPackaging "/Users/jono/Library/MobileDevice/Provisioning Profiles/EA4762BA-AC1D-48D3-9501-C513339515A3.mobileprovision" /Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/JonStreetViewTST.app/embedded.mobileprovision
+cProcessProductPackaging /Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST.xcent
+
+N/Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/jono/Desktop/Google-Street-View-API-Wrapper/build/Debug-iphoneos/libGoogleStreetViewAPI.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTAppDelegate.h
+c00000000503CA0050000000000000210
+t1346150405
+s528
+i<UIKit/UIKit.h>
+
+N/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTAppDelegate.m
+c00000000503CA0050000000000000ABD
+t1346150405
+s2749
+i"JonStreetViewTSTAppDelegate.h"
+i"JonStreetViewTSTViewController.h"
+
+N/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.h
+c00000000503CA89D0000000000000104
+t1346152605
+s260
+i<UIKit/UIKit.h>
+
+N/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m
+c00000000503CA00500000000000005E0
+t1346150405
+s1504
+i"JonStreetViewTSTViewController.h"
+
+N/Users/jono/Documents/JonStreetViewTST/JonStreetViewTSTViewController.xib
+c00000000503CA0050000000000001A69
+t1346150405
+s6761
+
+N/Users/jono/Documents/JonStreetViewTST/JonStreetViewTST_Prefix.pch
+c00000000503CA00500000000000000C9
+t1346150405
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jono/Documents/JonStreetViewTST/MainWindow.xib
+c00000000503CA0050000000000004E95
+t1346150405
+s20117
+
+N/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/JonStreetViewTST.app
+t2
+s0
+
+N/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/JonStreetViewTST.app.dSYM
+t2
+s0
+
+N/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/JonStreetViewTST.app/Info.plist
+t1346152605
+s823
+
+N/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/JonStreetViewTST.app/JonStreetViewTST
+t2
+s0
+
+N/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/JonStreetViewTST.app/JonStreetViewTSTViewController.nib
+t1346152610
+s795
+
+N/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/JonStreetViewTST.app/MainWindow.nib
+t1346152609
+s1141
+
+N/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/JonStreetViewTST.app/PkgInfo
+t1346152605
+s8
+
+N/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/JonStreetViewTST.app/ResourceRules.plist
+t1346152605
+s485
+
+N/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/JonStreetViewTST.app/embedded.mobileprovision
+t1346152619
+s9941
+
+N/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST.xcent
+t1346152619
+s438
+
+N/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv6/JonStreetViewTST
+t2
+s0
+
+N/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv6/JonStreetViewTST.LinkFileList
+c00000000503CA89D00000000000001C3
+t1346152605
+s451
+
+N/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv6/JonStreetViewTSTAppDelegate.o
+t1346152618
+s50924
+
+N/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv6/JonStreetViewTSTViewController.o
+t1346152618
+s37672
+
+N/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv6/main.o
+t1346152618
+s6460
+
+N/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv7/JonStreetViewTST
+t2
+s0
+
+N/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv7/JonStreetViewTST.LinkFileList
+c00000000503CA89D00000000000001C3
+t1346152605
+s451
+
+N/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv7/JonStreetViewTSTAppDelegate.o
+t1346152619
+s50844
+
+N/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv7/JonStreetViewTSTViewController.o
+t1346152619
+s37648
+
+N/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv7/main.o
+t1346152618
+s6444
+
+N/Users/jono/Documents/JonStreetViewTST/main.m
+c00000000503CA005000000000000016D
+t1346150405
+s365
+i<UIKit/UIKit.h>
+
+N/Users/jono/Library/MobileDevice/Provisioning Profiles/EA4762BA-AC1D-48D3-9501-C513339515A3.mobileprovision
+c00000000502900AC00000000000026D5
+t1344864428
+s9941
+
+N/var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JonStreetViewTST_Prefix-bjbjtiltjbxucnbxbbvwoucsearc/JonStreetViewTST_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JonStreetViewTST_Prefix-bstotnhdmwissfdlfxwmlevtfgmr/JonStreetViewTST_Prefix.pch.gch
+t1346152617
+s10446552
+
+N/var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JonStreetViewTST_Prefix-ckhvkdwuqlzvjnhgygxbmqjbkbdw/JonStreetViewTST_Prefix.pch.gch
+t1346152612
+s9987800
+
+N/var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JonStreetViewTST_Prefix-fwenmeqqpetirufvowwzgwyojeyo/JonStreetViewTST_Prefix.pch.gch
+t2
+s0
+
+NJonStreetViewTST-Info.plist
+c00000000503CA005000000000000038D
+t1346150405
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies367845405#367845405#0(0"1(22@84"Missing dependency target "GoogleStreetViewAPI (from GoogleStreetViewAPI.xcodeproj)"367845405#18446744073709551615#0#0(1@0"0(0#1#0"8630331488#0"0#
+
+CCodeSign /Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/JonStreetViewTST.app
+r0
+
+CCompileC build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv6/JonStreetViewTSTAppDelegate.o /Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367845418.442947
+e367845418.515092
+r1
+xCompileC
+xbuild/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv6/JonStreetViewTSTAppDelegate.o
+x/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTAppDelegate.m367845418#367845418#0(0"0(0#0#76"/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTAppDelegate.m8607207712#2023"    cd /Users/jono/Documents/JonStreetViewTST    setenv LANG en_US.US-ASCII    setenv PATH "/Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-generated-files.hmap -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-own-target-headers.hmap -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-all-target-headers.hmap -iquote /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-project-headers.hmap -F/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos -I/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/include -I/Users/jono/Desktop/Google-Street-View-API-Wrapper -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/DerivedSources/armv6 -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/DerivedSources -include /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JonStreetViewTST_Prefix-ckhvkdwuqlzvjnhgygxbmqjbkbdw/JonStreetViewTST_Prefix.pch -c /Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTAppDelegate.m -o /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv6/JonStreetViewTSTAppDelegate.o0#
+
+CCompileC build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv6/JonStreetViewTSTViewController.o /Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367845418.515189
+e367845418.582360
+r1
+xCompileC
+xbuild/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv6/JonStreetViewTSTViewController.o
+x/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m367845418#367845418#0(0"0(0#0#79"/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m8603682432#2029"    cd /Users/jono/Documents/JonStreetViewTST    setenv LANG en_US.US-ASCII    setenv PATH "/Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-generated-files.hmap -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-own-target-headers.hmap -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-all-target-headers.hmap -iquote /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-project-headers.hmap -F/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos -I/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/include -I/Users/jono/Desktop/Google-Street-View-API-Wrapper -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/DerivedSources/armv6 -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/DerivedSources -include /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JonStreetViewTST_Prefix-ckhvkdwuqlzvjnhgygxbmqjbkbdw/JonStreetViewTST_Prefix.pch -c /Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m -o /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv6/JonStreetViewTSTViewController.o0#
+
+CCompileC build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv6/main.o /Users/jono/Documents/JonStreetViewTST/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367845418.016339
+e367845418.442824
+r1
+xCompileC
+xbuild/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv6/main.o
+x/Users/jono/Documents/JonStreetViewTST/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/jono/Documents/JonStreetViewTST/main.m367845418#367845418#0(0"0(0#0#45"/Users/jono/Documents/JonStreetViewTST/main.m8613710656#1969"    cd /Users/jono/Documents/JonStreetViewTST    setenv LANG en_US.US-ASCII    setenv PATH "/Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-generated-files.hmap -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-own-target-headers.hmap -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-all-target-headers.hmap -iquote /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-project-headers.hmap -F/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos -I/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/include -I/Users/jono/Desktop/Google-Street-View-API-Wrapper -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/DerivedSources/armv6 -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/DerivedSources -include /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JonStreetViewTST_Prefix-ckhvkdwuqlzvjnhgygxbmqjbkbdw/JonStreetViewTST_Prefix.pch -c /Users/jono/Documents/JonStreetViewTST/main.m -o /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv7/JonStreetViewTSTAppDelegate.o /Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367845418.984454
+e367845419.099606
+r1
+xCompileC
+xbuild/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv7/JonStreetViewTSTAppDelegate.o
+x/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTAppDelegate.m367845418#367845419#0(0"0(0#0#76"/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTAppDelegate.m8613650944#2023"    cd /Users/jono/Documents/JonStreetViewTST    setenv LANG en_US.US-ASCII    setenv PATH "/Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-generated-files.hmap -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-own-target-headers.hmap -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-all-target-headers.hmap -iquote /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-project-headers.hmap -F/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos -I/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/include -I/Users/jono/Desktop/Google-Street-View-API-Wrapper -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/DerivedSources/armv7 -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/DerivedSources -include /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JonStreetViewTST_Prefix-bstotnhdmwissfdlfxwmlevtfgmr/JonStreetViewTST_Prefix.pch -c /Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTAppDelegate.m -o /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv7/JonStreetViewTSTAppDelegate.o0#
+
+CCompileC build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv7/JonStreetViewTSTViewController.o /Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367845419.099702
+e367845419.165839
+r1
+xCompileC
+xbuild/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv7/JonStreetViewTSTViewController.o
+x/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m367845419#367845419#0(0"0(0#0#79"/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m8602049856#2029"    cd /Users/jono/Documents/JonStreetViewTST    setenv LANG en_US.US-ASCII    setenv PATH "/Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-generated-files.hmap -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-own-target-headers.hmap -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-all-target-headers.hmap -iquote /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-project-headers.hmap -F/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos -I/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/include -I/Users/jono/Desktop/Google-Street-View-API-Wrapper -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/DerivedSources/armv7 -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/DerivedSources -include /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JonStreetViewTST_Prefix-bstotnhdmwissfdlfxwmlevtfgmr/JonStreetViewTST_Prefix.pch -c /Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m -o /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv7/JonStreetViewTSTViewController.o0#
+
+CCompileC build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv7/main.o /Users/jono/Documents/JonStreetViewTST/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367845418.919884
+e367845418.984361
+r1
+xCompileC
+xbuild/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv7/main.o
+x/Users/jono/Documents/JonStreetViewTST/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/jono/Documents/JonStreetViewTST/main.m367845418#367845418#0(0"0(0#0#45"/Users/jono/Documents/JonStreetViewTST/main.m8616527232#1969"    cd /Users/jono/Documents/JonStreetViewTST    setenv LANG en_US.US-ASCII    setenv PATH "/Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-generated-files.hmap -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-own-target-headers.hmap -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-all-target-headers.hmap -iquote /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-project-headers.hmap -F/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos -I/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/include -I/Users/jono/Desktop/Google-Street-View-API-Wrapper -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/DerivedSources/armv7 -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/DerivedSources -include /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JonStreetViewTST_Prefix-bstotnhdmwissfdlfxwmlevtfgmr/JonStreetViewTST_Prefix.pch -c /Users/jono/Documents/JonStreetViewTST/main.m -o /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/jono/Documents/JonStreetViewTST/JonStreetViewTSTViewController.xib
+s367845409.889268
+e367845410.764436
+r1
+xCompileXIB
+x/Users/jono/Documents/JonStreetViewTST/JonStreetViewTSTViewController.xib
+lSLF07#2@45"CompileXIB JonStreetViewTSTViewController.xib367845409#367845410#0(0"0(0#0#73"/Users/jono/Documents/JonStreetViewTST/JonStreetViewTSTViewController.xib8614222560#603"    cd /Users/jono/Documents/JonStreetViewTST    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/JonStreetViewTST.app/JonStreetViewTSTViewController.nib /Users/jono/Documents/JonStreetViewTST/JonStreetViewTSTViewController.xib --sdk /Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/jono/Documents/JonStreetViewTST/MainWindow.xib
+s367845405.851645
+e367845409.889070
+r1
+xCompileXIB
+x/Users/jono/Documents/JonStreetViewTST/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib367845405#367845409#0(0"0(0#0#53"/Users/jono/Documents/JonStreetViewTST/MainWindow.xib8619643648#563"    cd /Users/jono/Documents/JonStreetViewTST    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/JonStreetViewTST.app/MainWindow.nib /Users/jono/Documents/JonStreetViewTST/MainWindow.xib --sdk /Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCpResource build/Debug-iphoneos/JonStreetViewTST.app/ResourceRules.plist /Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s367845405.809414
+e367845405.851410
+r1
+xCpResource
+xbuild/Debug-iphoneos/JonStreetViewTST.app/ResourceRules.plist
+x/Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@97"Copy /Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist367845405#367845405#0(0"0(0#0#92"/Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8624403616#515"    cd /Users/jono/Documents/JonStreetViewTST    setenv PATH "/Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/JonStreetViewTST.app0#
+
+CCreateUniversalBinary /Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/JonStreetViewTST.app/JonStreetViewTST normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile /Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/JonStreetViewTST.app.dSYM /Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/JonStreetViewTST.app/JonStreetViewTST
+r0
+
+CLd /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv6/JonStreetViewTST normal armv6
+s367845418.582437
+e367845418.919729
+r0
+xLd
+x/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv6/JonStreetViewTST
+xnormal
+xarmv6
+old: warning: directory '/Users/jono/Documents/JonStreetViewTST/../../Desktop/Google-Street-View-API-Wrapper/build/Debug-iphoneos' following -L not found
+old: library not found for -lGoogleStreetViewAPI
+ocollect2: ld returned 1 exit status
+lSLF07#2@148"Link /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv6/JonStreetViewTST367845418#367845418#0(337"ld: warning: directory '/Users/jono/Documents/JonStreetViewTST/../../Desktop/Google-Street-View-API-Wrapper/build/Debug-iphoneos' following -L not foundld: library not found for -lGoogleStreetViewAPIcollect2: ld returned 1 exit statusCommand /Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 failed with exit code 13(22@139"Directory '/Users/jono/Documents/JonStreetViewTST/../../Desktop/Google-Street-View-API-Wrapper/build/Debug-iphoneos' following -L not found367845418#0#153#0(6@0"367845418#0#0#0#0#0"0(13@43"Library not found for -lGoogleStreetViewAPI367845418#153#48#0(6@0"367845418#0#0#0#0#0"0(4@99"Command /Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 failed with exit code 1367845418#18446744073709551615#0#0(1@0"0(0#0#0"8599826336#1054"    cd /Users/jono/Documents/JonStreetViewTST    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos -L/Users/jono/Documents/JonStreetViewTST/../../Desktop/Google-Street-View-API-Wrapper/build/Debug-iphoneos -F/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos -filelist /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv6/JonStreetViewTST.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -lGoogleStreetViewAPI -o /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv6/JonStreetViewTST1#
+
+CLd /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv7/JonStreetViewTST normal armv7
+s367845419.165946
+e367845419.183558
+r0
+xLd
+x/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv7/JonStreetViewTST
+xnormal
+xarmv7
+old: warning: directory '/Users/jono/Documents/JonStreetViewTST/../../Desktop/Google-Street-View-API-Wrapper/build/Debug-iphoneos' following -L not found
+old: library not found for -lGoogleStreetViewAPI
+ocollect2: ld returned 1 exit status
+lSLF07#2@148"Link /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv7/JonStreetViewTST367845419#367845419#0(337"ld: warning: directory '/Users/jono/Documents/JonStreetViewTST/../../Desktop/Google-Street-View-API-Wrapper/build/Debug-iphoneos' following -L not foundld: library not found for -lGoogleStreetViewAPIcollect2: ld returned 1 exit statusCommand /Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 failed with exit code 13(22@139"Directory '/Users/jono/Documents/JonStreetViewTST/../../Desktop/Google-Street-View-API-Wrapper/build/Debug-iphoneos' following -L not found367845419#0#153#0(6@0"367845419#0#0#0#0#0"0(13@43"Library not found for -lGoogleStreetViewAPI367845419#153#48#0(6@0"367845419#0#0#0#0#0"0(4@99"Command /Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 failed with exit code 1367845419#18446744073709551615#0#0(1@0"0(0#0#0"8599594560#1054"    cd /Users/jono/Documents/JonStreetViewTST    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos -L/Users/jono/Documents/JonStreetViewTST/../../Desktop/Google-Street-View-API-Wrapper/build/Debug-iphoneos -F/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos -filelist /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv7/JonStreetViewTST.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -lGoogleStreetViewAPI -o /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/Objects-normal/armv7/JonStreetViewTST1#
+
+CProcessInfoPlistFile /Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/JonStreetViewTST.app/Info.plist JonStreetViewTST-Info.plist
+s367845405.819742
+e367845405.851577
+r1
+xProcessInfoPlistFile
+x/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/JonStreetViewTST.app/Info.plist
+xJonStreetViewTST-Info.plist
+lSLF07#2@35"Process JonStreetViewTST-Info.plist367845405#367845405#0(0"0(0#0#66"/Users/jono/Documents/JonStreetViewTST/JonStreetViewTST-Info.plist8621595200#604"    cd /Users/jono/Documents/JonStreetViewTST    setenv PATH "/Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility JonStreetViewTST-Info.plist -genpkginfo /Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/JonStreetViewTST.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/JonStreetViewTST.app/ResourceRules.plist -o /Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/JonStreetViewTST.app/Info.plist0#
+
+CProcessPCH /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JonStreetViewTST_Prefix-bjbjtiltjbxucnbxbbvwoucsearc/JonStreetViewTST_Prefix.pch.gch JonStreetViewTST_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JonStreetViewTST_Prefix-bstotnhdmwissfdlfxwmlevtfgmr/JonStreetViewTST_Prefix.pch.gch JonStreetViewTST_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367845412.971279
+e367845418.016158
+r1
+xProcessPCH
+x/var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JonStreetViewTST_Prefix-bstotnhdmwissfdlfxwmlevtfgmr/JonStreetViewTST_Prefix.pch.gch
+xJonStreetViewTST_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile JonStreetViewTST_Prefix.pch367845412#367845418#0(0"0(0#0#66"/Users/jono/Documents/JonStreetViewTST/JonStreetViewTST_Prefix.pch8615739744#1858"    cd /Users/jono/Documents/JonStreetViewTST    setenv LANG en_US.US-ASCII    setenv PATH "/Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-generated-files.hmap -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-own-target-headers.hmap -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-all-target-headers.hmap -iquote /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-project-headers.hmap -F/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos -I/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/include -I/Users/jono/Desktop/Google-Street-View-API-Wrapper -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/DerivedSources/armv7 -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/DerivedSources -c /Users/jono/Documents/JonStreetViewTST/JonStreetViewTST_Prefix.pch -o /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JonStreetViewTST_Prefix-bstotnhdmwissfdlfxwmlevtfgmr/JonStreetViewTST_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JonStreetViewTST_Prefix-ckhvkdwuqlzvjnhgygxbmqjbkbdw/JonStreetViewTST_Prefix.pch.gch JonStreetViewTST_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367845410.764553
+e367845412.971117
+r1
+xProcessPCH
+x/var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JonStreetViewTST_Prefix-ckhvkdwuqlzvjnhgygxbmqjbkbdw/JonStreetViewTST_Prefix.pch.gch
+xJonStreetViewTST_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile JonStreetViewTST_Prefix.pch367845410#367845412#0(0"0(0#0#66"/Users/jono/Documents/JonStreetViewTST/JonStreetViewTST_Prefix.pch8630283936#1858"    cd /Users/jono/Documents/JonStreetViewTST    setenv LANG en_US.US-ASCII    setenv PATH "/Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-generated-files.hmap -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-own-target-headers.hmap -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-all-target-headers.hmap -iquote /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST-project-headers.hmap -F/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos -I/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/include -I/Users/jono/Desktop/Google-Street-View-API-Wrapper -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/DerivedSources/armv6 -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/DerivedSources -c /Users/jono/Documents/JonStreetViewTST/JonStreetViewTST_Prefix.pch -o /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JonStreetViewTST_Prefix-ckhvkdwuqlzvjnhgygxbmqjbkbdw/JonStreetViewTST_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JonStreetViewTST_Prefix-fwenmeqqpetirufvowwzgwyojeyo/JonStreetViewTST_Prefix.pch.gch JonStreetViewTST_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/jono/Library/MobileDevice/Provisioning Profiles/EA4762BA-AC1D-48D3-9501-C513339515A3.mobileprovision" /Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/JonStreetViewTST.app/embedded.mobileprovision
+s367845419.183647
+e367845419.190650
+r1
+xProcessProductPackaging
+x/Users/jono/Library/MobileDevice/Provisioning Profiles/EA4762BA-AC1D-48D3-9501-C513339515A3.mobileprovision
+x/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/JonStreetViewTST.app/embedded.mobileprovision
+lSLF07#2@200"ProcessProductPackaging "/Users/jono/Library/MobileDevice/Provisioning Profiles/EA4762BA-AC1D-48D3-9501-C513339515A3.mobileprovision" build/Debug-iphoneos/JonStreetViewTST.app/embedded.mobileprovision367845419#367845419#0(0"0(0#0#105"/Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/JonStreetViewTST.app/embedded.mobileprovision8615581856#437"    cd /Users/jono/Documents/JonStreetViewTST    setenv PATH "/Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/jono/Library/MobileDevice/Provisioning Profiles/EA4762BA-AC1D-48D3-9501-C513339515A3.mobileprovision" -o /Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/JonStreetViewTST.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST.xcent
+s367845419.190711
+e367845419.200491
+r1
+xProcessProductPackaging
+x/Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST.xcent
+lSLF07#2@205"ProcessProductPackaging /Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST.xcent367845419#367845419#0(0"0(0#0#128"/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST.xcent8630557888#468"    cd /Users/jono/Documents/JonStreetViewTST    setenv PATH "/Developer4_2/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer4_2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphoneos/JonStreetViewTST.build/JonStreetViewTST.xcent0#
+
+CTouch /Users/jono/Documents/JonStreetViewTST/build/Debug-iphoneos/JonStreetViewTST.app
+r0
+

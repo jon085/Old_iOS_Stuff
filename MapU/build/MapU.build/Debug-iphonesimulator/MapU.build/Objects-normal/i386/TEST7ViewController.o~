@@ -1,0 +1,12 @@
+/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m: In function '-[TEST7ViewController mapView:viewForAnnotation:]':
+/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:418: warning: local declaration of 'mapView' hides instance variable
+/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m: In function '-[TEST7ViewController locationManager:didUpdateToLocation:fromLocation:]':
+/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:472: warning: unused variable 'tLongitude'
+/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:471: warning: unused variable 'tLatitude'
+/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m: In function '-[TEST7ViewController mapView:annotationView:didChangeDragState:fromOldState:]':
+/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:563: warning: conflicting types for '-(void)mapView:(MKMapView *)mapView annotationView:(MKAnnotationView *)view didChangeDragState:(int)newState fromOldState:(int)oldState'
+/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKMapView.h:170: warning: previous declaration of '-(void)mapView:(MKMapView *)mapView annotationView:(MKAnnotationView *)view didChangeDragState:(MKAnnotationViewDragState)newState fromOldState:(MKAnnotationViewDragState)oldState'
+/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m: At top level:
+/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:747: warning: property 'curLocAnnotation' requires method '-curLocAnnotation' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:747: warning: property 'curLocAnnotation' requires the method 'setCurLocAnnotation:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:747: warning: property 'coordinate' requires method '-coordinate' to be defined - use @synthesize, @dynamic or provide a method implementation

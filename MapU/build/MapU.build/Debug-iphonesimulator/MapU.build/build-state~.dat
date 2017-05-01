@@ -1,0 +1,536 @@
+TMapU
+v7
+r0
+t367159075.675376
+cCheck dependencies
+cProcessInfoPlistFile /Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app/Info.plist MapU-Info.plist
+cCompileXIB /Users/jono/Documents/TEST7/MainWindow.xib
+cCompileXIB /Users/jono/Documents/TEST7/TEST7ViewController.xib
+cCpResource build/Debug-iphonesimulator/MapU.app/EYE.jpg EYE.jpg
+cCompileXIB /Users/jono/Documents/TEST7/Classes/SecondView.xib
+cCpResource build/Debug-iphonesimulator/MapU.app/CrossHair.png CrossHair.png
+cProcessPCH /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapU_Prefix-hhltblkvvsmtmtftgtfiykisqlfb/MapU_Prefix.pch.gch MapU_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/main.o /Users/jono/Documents/TEST7/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/TEST7AppDelegate.o /Users/jono/Documents/TEST7/Classes/TEST7AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/TEST7ViewController.o /Users/jono/Documents/TEST7/Classes/TEST7ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/EMailAssistant.o /Users/jono/Documents/TEST7/Classes/EMailAssistant.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/PlaceMark.o /Users/jono/Documents/TEST7/Classes/PlaceMark.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/SecondView.o /Users/jono/Documents/TEST7/Classes/SecondView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AddressBook.framework/Headers/AddressBook.h
+c000000004CC122DB0000000000000424
+t1287725787
+s1060
+
+N/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers/AddressBookUI.h
+c000000004CC128F80000000000000202
+t1287727352
+s514
+
+N/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004CC127E80000000000074190
+t1287727080
+s475536
+
+N/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004CC127DD00000000000001D0
+t1287727069
+s464
+
+N/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC1294D00000000000002FE
+t1287727437
+s766
+
+N/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC12977000000000017E7F0
+t1287727479
+s1566704
+
+N/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004CC6561F00000000000000CD
+t1288066591
+s205
+
+N/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004CC6562D000000000009BEC0
+t1288066605
+s638656
+
+N/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/jono/Documents/TEST7/Classes/EMailAssistant.h
+c000000005028D62E00000000000002AE
+t1344853550
+s686
+i<Foundation/Foundation.h>
+i<MessageUI/MessageUI.h>
+i<AddressBook/AddressBook.h>
+i<AddressBookUI/AddressBookUI.h>
+
+N/Users/jono/Documents/TEST7/Classes/EMailAssistant.m
+c000000005028D7BE00000000000003D6
+t1344853950
+s982
+i"EMailAssistant.h"
+
+N/Users/jono/Documents/TEST7/Classes/MapMarker.h
+c00000000502BA0280000000000000591
+t1345036328
+s1425
+
+N/Users/jono/Documents/TEST7/Classes/MapMarker.m
+c00000000502BAF2C0000000000001DD7
+t1345040172
+s7639
+
+N/Users/jono/Documents/TEST7/Classes/MapWebView.h
+c00000000502BAF300000000000000F49
+t1345040176
+s3913
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jono/Documents/TEST7/Classes/MapWebView.m
+c00000000502BAF330000000000002415
+t1345040179
+s9237
+
+N/Users/jono/Documents/TEST7/Classes/PlaceMark.h
+c00000000502E3B3A00000000000002A7
+t1345207098
+s679
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/jono/Documents/TEST7/Classes/PlaceMark.m
+c00000000502E4D100000000000000283
+t1345211664
+s643
+i"PlaceMark.h"
+
+N/Users/jono/Documents/TEST7/Classes/SecondView.h
+c00000000502E3D9300000000000000D0
+t1345207699
+s208
+i<UIKit/UIKit.h>
+
+N/Users/jono/Documents/TEST7/Classes/SecondView.m
+c00000000502E3D93000000000000058C
+t1345207699
+s1420
+i"SecondView.h"
+
+N/Users/jono/Documents/TEST7/Classes/SecondView.xib
+c00000000502E489A0000000000004B3D
+t1345210522
+s19261
+
+N/Users/jono/Documents/TEST7/Classes/TEST7AppDelegate.h
+c00000000502B70AB0000000000000208
+t1345024171
+s520
+i<UIKit/UIKit.h>
+
+N/Users/jono/Documents/TEST7/Classes/TEST7AppDelegate.m
+c000000005022630B0000000000000C00
+t1344430859
+s3072
+i"TEST7AppDelegate.h"
+i"TEST7ViewController.h"
+
+N/Users/jono/Documents/TEST7/Classes/TEST7ViewController.h
+c0000000050322F9C00000000000008E6
+t1345466268
+s2278
+i<UIKit/UIKit.h>
+i<MessageUI/MessageUI.h>
+i<MapKit/MapKit.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m
+c0000000050322F9F0000000000003B1A
+t1345466271
+s15130
+i"TEST7ViewController.h"
+i"EMailAssistant.h"
+i"PlaceMark.h"
+i"SecondView.h"
+
+N/Users/jono/Documents/TEST7/CrossHair.png
+c000000005031E7700000000000000E41
+t1345447792
+s3649
+
+N/Users/jono/Documents/TEST7/EYE.jpg
+c000000005003EF0F0000000000009936
+t1342435087
+s39222
+
+N/Users/jono/Documents/TEST7/MainWindow.xib
+c0000000050227C200000000000004FB7
+t1344437280
+s20407
+
+N/Users/jono/Documents/TEST7/MapU_Prefix.pch
+c00000000501FDE6800000000000000B3
+t1344265832
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jono/Documents/TEST7/TEST7ViewController.xib
+c00000000503228CB0000000000009E2F
+t1345464523
+s40495
+
+N/Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app
+t2
+s0
+
+N/Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app.dSYM
+t2
+s0
+
+N/Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app/CrossHair.png
+t1345466274
+s3649
+
+N/Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app/EYE.jpg
+t1345466273
+s39222
+
+N/Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app/Info.plist
+t1345466272
+s612
+
+N/Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app/MainWindow.nib
+t1345466272
+s1119
+
+N/Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app/MapU
+t2
+s0
+
+N/Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app/PkgInfo
+t1345466272
+s8
+
+N/Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app/SecondView.nib
+t1345466273
+s1060
+
+N/Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app/TEST7ViewController.nib
+t1345466273
+s3870
+
+N/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/EMailAssistant.o
+t1345466275
+s44660
+
+N/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/MapMarker.o
+t1345040192
+s3916
+
+N/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/MapU.LinkFileList
+c0000000050322F9F00000000000002A6
+t1345466271
+s678
+
+N/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/MapWebView.o
+t1345040195
+s3916
+
+N/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/PlaceMark.o
+t1345466275
+s13084
+
+N/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/SecondView.o
+t1345466275
+s37468
+
+N/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/TEST7AppDelegate.o
+t2
+s0
+
+N/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/TEST7ViewController.o
+t2
+s0
+
+N/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/main.o
+t1345466275
+s6292
+
+N/Users/jono/Documents/TEST7/main.m
+c00000000501FDE680000000000000162
+t1344265832
+s354
+i<UIKit/UIKit.h>
+
+N/var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapU_Prefix-hhltblkvvsmtmtftgtfiykisqlfb/MapU_Prefix.pch.gch
+t1345466274
+s15453392
+
+NMapU-Info.plist
+c000000005020C28A0000000000000394
+t1344324234
+s916
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies367159071#367159071#0(0"0(0#1#0"8625335136#0"0#
+
+CCompileC build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/EMailAssistant.o /Users/jono/Documents/TEST7/Classes/EMailAssistant.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s367159075.409756
+e367159075.510493
+r1
+xCompileC
+xbuild/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/EMailAssistant.o
+x/Users/jono/Documents/TEST7/Classes/EMailAssistant.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/jono/Documents/TEST7/Classes/EMailAssistant.m367159075#367159075#0(0"0(0#0#52"/Users/jono/Documents/TEST7/Classes/EMailAssistant.m8626586624#1773"    cd /Users/jono/Documents/TEST7    setenv LANG en_US.US-ASCII    setenv PATH "/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-generated-files.hmap -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-own-target-headers.hmap -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-all-target-headers.hmap -iquote /Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-project-headers.hmap -F/Users/jono/Documents/TEST7/build/Debug-iphonesimulator -I/Users/jono/Documents/TEST7/build/Debug-iphonesimulator/include -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/DerivedSources/i386 -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/DerivedSources -include /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapU_Prefix-hhltblkvvsmtmtftgtfiykisqlfb/MapU_Prefix.pch -c /Users/jono/Documents/TEST7/Classes/EMailAssistant.m -o /Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/EMailAssistant.o0#
+
+CCompileC build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/MapMarker.o /Users/jono/Documents/TEST7/Classes/MapMarker.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s366732992.302634
+e366732992.450081
+r1
+xCompileC
+xbuild/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/MapMarker.o
+x/Users/jono/Documents/TEST7/Classes/MapMarker.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/jono/Documents/TEST7/Classes/MapMarker.m366732992#366732992#0(0"0(0#0#47"/Users/jono/Documents/TEST7/Classes/MapMarker.m8619882944#1763"    cd /Users/jono/Documents/TEST7    setenv LANG en_US.US-ASCII    setenv PATH "/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-generated-files.hmap -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-own-target-headers.hmap -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-all-target-headers.hmap -iquote /Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-project-headers.hmap -F/Users/jono/Documents/TEST7/build/Debug-iphonesimulator -I/Users/jono/Documents/TEST7/build/Debug-iphonesimulator/include -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/DerivedSources/i386 -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/DerivedSources -include /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapU_Prefix-hhltblkvvsmtmtftgtfiykisqlfb/MapU_Prefix.pch -c /Users/jono/Documents/TEST7/Classes/MapMarker.m -o /Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/MapMarker.o0#
+
+CCompileC build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/MapWebView.o /Users/jono/Documents/TEST7/Classes/MapWebView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s366732992.450165
+e366732995.087269
+r1
+xCompileC
+xbuild/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/MapWebView.o
+x/Users/jono/Documents/TEST7/Classes/MapWebView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/jono/Documents/TEST7/Classes/MapWebView.m366732992#366732995#0(0"0(0#0#48"/Users/jono/Documents/TEST7/Classes/MapWebView.m8621175360#1765"    cd /Users/jono/Documents/TEST7    setenv LANG en_US.US-ASCII    setenv PATH "/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-generated-files.hmap -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-own-target-headers.hmap -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-all-target-headers.hmap -iquote /Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-project-headers.hmap -F/Users/jono/Documents/TEST7/build/Debug-iphonesimulator -I/Users/jono/Documents/TEST7/build/Debug-iphonesimulator/include -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/DerivedSources/i386 -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/DerivedSources -include /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapU_Prefix-hhltblkvvsmtmtftgtfiykisqlfb/MapU_Prefix.pch -c /Users/jono/Documents/TEST7/Classes/MapWebView.m -o /Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/MapWebView.o0#
+
+CCompileC build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/PlaceMark.o /Users/jono/Documents/TEST7/Classes/PlaceMark.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s367159075.510633
+e367159075.608010
+r1
+xCompileC
+xbuild/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/PlaceMark.o
+x/Users/jono/Documents/TEST7/Classes/PlaceMark.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/jono/Documents/TEST7/Classes/PlaceMark.m:9:
+o/Users/jono/Documents/TEST7/Classes/PlaceMark.h:19: warning: declaration does not declare anything
+lSLF07#2@55"Compile /Users/jono/Documents/TEST7/Classes/PlaceMark.m367159075#367159075#0(172"In file included from /Users/jono/Documents/TEST7/Classes/PlaceMark.m:9:/Users/jono/Documents/TEST7/Classes/PlaceMark.h:19: warning: declaration does not declare anything1(22@37"Declaration does not declare anything367159075#73#99#2(7@69"In file included from /Users/jono/Documents/TEST7/Classes/PlaceMark.m367159075#18446744073709551615#0#0(6@47"/Users/jono/Documents/TEST7/Classes/PlaceMark.m366904464#9#0#9#0#0"0(13@88"Declaration does not declare anything in /Users/jono/Documents/TEST7/Classes/PlaceMark.h367159075#18446744073709551615#0#0(6@47"/Users/jono/Documents/TEST7/Classes/PlaceMark.h366899898#19#0#19#0#0"0(6@47"/Users/jono/Documents/TEST7/Classes/PlaceMark.h366899898#19#0#19#0#0"0(0#0#47"/Users/jono/Documents/TEST7/Classes/PlaceMark.m8623453536#1763"    cd /Users/jono/Documents/TEST7    setenv LANG en_US.US-ASCII    setenv PATH "/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-generated-files.hmap -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-own-target-headers.hmap -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-all-target-headers.hmap -iquote /Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-project-headers.hmap -F/Users/jono/Documents/TEST7/build/Debug-iphonesimulator -I/Users/jono/Documents/TEST7/build/Debug-iphonesimulator/include -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/DerivedSources/i386 -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/DerivedSources -include /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapU_Prefix-hhltblkvvsmtmtftgtfiykisqlfb/MapU_Prefix.pch -c /Users/jono/Documents/TEST7/Classes/PlaceMark.m -o /Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/PlaceMark.o0#
+
+CCompileC build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/SecondView.o /Users/jono/Documents/TEST7/Classes/SecondView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s367159075.608088
+e367159075.675303
+r1
+xCompileC
+xbuild/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/SecondView.o
+x/Users/jono/Documents/TEST7/Classes/SecondView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/jono/Documents/TEST7/Classes/SecondView.m367159075#367159075#0(0"0(0#0#48"/Users/jono/Documents/TEST7/Classes/SecondView.m8626630944#1765"    cd /Users/jono/Documents/TEST7    setenv LANG en_US.US-ASCII    setenv PATH "/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-generated-files.hmap -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-own-target-headers.hmap -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-all-target-headers.hmap -iquote /Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-project-headers.hmap -F/Users/jono/Documents/TEST7/build/Debug-iphonesimulator -I/Users/jono/Documents/TEST7/build/Debug-iphonesimulator/include -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/DerivedSources/i386 -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/DerivedSources -include /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapU_Prefix-hhltblkvvsmtmtftgtfiykisqlfb/MapU_Prefix.pch -c /Users/jono/Documents/TEST7/Classes/SecondView.m -o /Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/SecondView.o0#
+
+CCompileC build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/TEST7AppDelegate.o /Users/jono/Documents/TEST7/Classes/TEST7AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s367159075.211277
+e367159075.285921
+r0
+xCompileC
+xbuild/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/TEST7AppDelegate.o
+x/Users/jono/Documents/TEST7/Classes/TEST7AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/jono/Documents/TEST7/Classes/TEST7AppDelegate.m:10:
+o/Users/jono/Documents/TEST7/Classes/TEST7ViewController.h:17: error: expected '>' before 'UIAlertViewDelegate'
+lSLF07#2@62"Compile /Users/jono/Documents/TEST7/Classes/TEST7AppDelegate.m367159075#367159075#0(192"In file included from /Users/jono/Documents/TEST7/Classes/TEST7AppDelegate.m:10:/Users/jono/Documents/TEST7/Classes/TEST7ViewController.h:17: error: expected '>' before 'UIAlertViewDelegate'1(4@41"Expected '>' before 'UIAlertViewDelegate'367159075#81#111#2(7@76"In file included from /Users/jono/Documents/TEST7/Classes/TEST7AppDelegate.m367159075#18446744073709551615#0#0(6@54"/Users/jono/Documents/TEST7/Classes/TEST7AppDelegate.m366123659#10#0#10#0#0"0(13@102"Expected '>' before 'UIAlertViewDelegate' in /Users/jono/Documents/TEST7/Classes/TEST7ViewController.h367159075#18446744073709551615#0#0(6@57"/Users/jono/Documents/TEST7/Classes/TEST7ViewController.h367159068#17#0#17#0#0"0(6@57"/Users/jono/Documents/TEST7/Classes/TEST7ViewController.h367159068#17#0#17#0#19"expected * before *0(0#0#54"/Users/jono/Documents/TEST7/Classes/TEST7AppDelegate.m8626253536#1777"    cd /Users/jono/Documents/TEST7    setenv LANG en_US.US-ASCII    setenv PATH "/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-generated-files.hmap -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-own-target-headers.hmap -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-all-target-headers.hmap -iquote /Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-project-headers.hmap -F/Users/jono/Documents/TEST7/build/Debug-iphonesimulator -I/Users/jono/Documents/TEST7/build/Debug-iphonesimulator/include -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/DerivedSources/i386 -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/DerivedSources -include /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapU_Prefix-hhltblkvvsmtmtftgtfiykisqlfb/MapU_Prefix.pch -c /Users/jono/Documents/TEST7/Classes/TEST7AppDelegate.m -o /Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/TEST7AppDelegate.o1#
+
+CCompileC build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/TEST7ViewController.o /Users/jono/Documents/TEST7/Classes/TEST7ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s367159075.285994
+e367159075.409670
+r0
+xCompileC
+xbuild/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/TEST7ViewController.o
+x/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:8:
+o/Users/jono/Documents/TEST7/Classes/TEST7ViewController.h:17: error: expected '>' before 'UIAlertViewDelegate'
+oIn file included from /Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:10:
+o/Users/jono/Documents/TEST7/Classes/PlaceMark.h:19: warning: declaration does not declare anything
+o/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m: In function '-[TEST7ViewController keyboardWillShow:]':
+o/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:104: warning: 'UIKeyboardBoundsUserInfoKey' is deprecated (declared at /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWindow.h:118)
+o/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:122: error: 'scrollAmount' undeclared (first use in this function)
+o/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:122: error: (Each undeclared identifier is reported only once
+o/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:122: error: for each function it appears in.)
+o/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:136: error: 'moveViewUp' undeclared (first use in this function)
+o/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m: In function '-[TEST7ViewController scrollTheView:]':
+o/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:162: error: 'scrollAmount' undeclared (first use in this function)
+o/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m: In function '-[TEST7ViewController textFieldShouldReturn:]':
+o/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:175: error: 'moveViewUp' undeclared (first use in this function)
+o/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m: In function '-[TEST7ViewController touchesBegan:withEvent:]':
+o/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:208: error: 'moveViewUp' undeclared (first use in this function)
+o/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m: At top level:
+o/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:284: error: expected ':' before '-' token
+o/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m: In function '-[TEST7ViewController mapView:viewForAnnotation:]':
+o/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:309: warning: local declaration of 'mapView' hides instance variable
+o/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m: In function '-[TEST7ViewController mapView:annotationView:didChangeDragState:fromOldState:]':
+o/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:401: warning: conflicting types for '-(void)mapView:(MKMapView *)mapView annotationView:(MKAnnotationView *)view didChangeDragState:(int)newState fromOldState:(int)oldState'
+o/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKMapView.h:170: warning: previous declaration of '-(void)mapView:(MKMapView *)mapView annotationView:(MKAnnotationView *)view didChangeDragState:(MKAnnotationViewDragState)newState fromOldState:(MKAnnotationViewDragState)oldState'
+o/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m: At top level:
+o/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:532: warning: property 'curLocAnnotation' requires method '-curLocAnnotation' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:532: warning: property 'curLocAnnotation' requires the method 'setCurLocAnnotation:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:532: warning: property 'coordinate' requires method '-coordinate' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@65"Compile /Users/jono/Documents/TEST7/Classes/TEST7ViewController.m367159075#367159075#0(3856"In file included from /Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:8:/Users/jono/Documents/TEST7/Classes/TEST7ViewController.h:17: error: expected '>' before 'UIAlertViewDelegate'In file included from /Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:10:/Users/jono/Documents/TEST7/Classes/PlaceMark.h:19: warning: declaration does not declare anything/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m: In function '-[TEST7ViewController keyboardWillShow:]':/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:104: warning: 'UIKeyboardBoundsUserInfoKey' is deprecated (declared at /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWindow.h:118)/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:122: error: 'scrollAmount' undeclared (first use in this function)/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:122: error: (Each undeclared identifier is reported only once/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:122: error: for each function it appears in.)/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:136: error: 'moveViewUp' undeclared (first use in this function)/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m: In function '-[TEST7ViewController scrollTheView:]':/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:162: error: 'scrollAmount' undeclared (first use in this function)/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m: In function '-[TEST7ViewController textFieldShouldReturn:]':/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:175: error: 'moveViewUp' undeclared (first use in this function)/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m: In function '-[TEST7ViewController touchesBegan:withEvent:]':/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:208: error: 'moveViewUp' undeclared (first use in this function)/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m: At top level:/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:284: error: expected ':' before '-' token/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m: In function '-[TEST7ViewController mapView:viewForAnnotation:]':/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:309: warning: local declaration of 'mapView' hides instance variable/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m: In function '-[TEST7ViewController mapView:annotationView:didChangeDragState:fromOldState:]':/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:401: warning: conflicting types for '-(void)mapView:(MKMapView *)mapView annotationView:(MKAnnotationView *)view didChangeDragState:(int)newState fromOldState:(int)oldState'/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKMapView.h:170: warning: previous declaration of '-(void)mapView:(MKMapView *)mapView annotationView:(MKAnnotationView *)view didChangeDragState:(MKAnnotationViewDragState)newState fromOldState:(MKAnnotationViewDragState)oldState'/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m: At top level:/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:532: warning: property 'curLocAnnotation' requires method '-curLocAnnotation' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:532: warning: property 'curLocAnnotation' requires the method 'setCurLocAnnotation:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:532: warning: property 'coordinate' requires method '-coordinate' to be defined - use @synthesize, @dynamic or provide a method implementation17(4@41"Expected '>' before 'UIAlertViewDelegate'367159075#83#111#2(7@79"In file included from /Users/jono/Documents/TEST7/Classes/TEST7ViewController.m367159075#18446744073709551615#0#0(6@57"/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m367159071#8#0#8#0#0"0(13@102"Expected '>' before 'UIAlertViewDelegate' in /Users/jono/Documents/TEST7/Classes/TEST7ViewController.h367159075#18446744073709551615#0#0(6@57"/Users/jono/Documents/TEST7/Classes/TEST7ViewController.h367159068#17#0#17#0#0"0(6@57"/Users/jono/Documents/TEST7/Classes/TEST7ViewController.h367159068#17#0#17#0#19"expected * before *0(22@37"Declaration does not declare anything367159075#278#99#2(7@79"In file included from /Users/jono/Documents/TEST7/Classes/TEST7ViewController.m367159075#18446744073709551615#0#0(6@57"/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m367159071#10#0#10#0#0"0(13@88"Declaration does not declare anything in /Users/jono/Documents/TEST7/Classes/PlaceMark.h367159075#18446744073709551615#0#0(6@47"/Users/jono/Documents/TEST7/Classes/PlaceMark.h366899898#19#0#19#0#0"0(6@47"/Users/jono/Documents/TEST7/Classes/PlaceMark.h366899898#19#0#19#0#0"0(22@209"'UIKeyboardBoundsUserInfoKey' is deprecated (declared at /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWindow.h:118)367159075#492#282#0(6@57"/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m367159071#104#0#104#0#33"'*' is deprecated (declared at *)0(4@54"'scrollAmount' undeclared (first use in this function)367159075#774#125#0(6@57"/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m367159071#122#0#122#0#43"'*' undeclared (first use in this function)0(4@52"'moveViewUp' undeclared (first use in this function)367159075#1123#123#0(6@57"/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m367159071#136#0#136#0#43"'*' undeclared (first use in this function)0(4@54"'scrollAmount' undeclared (first use in this function)367159075#1358#125#0(6@57"/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m367159071#162#0#162#0#43"'*' undeclared (first use in this function)0(4@52"'moveViewUp' undeclared (first use in this function)367159075#1603#123#0(6@57"/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m367159071#175#0#175#0#43"'*' undeclared (first use in this function)0(4@52"'moveViewUp' undeclared (first use in this function)367159075#1847#123#0(6@57"/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m367159071#208#0#208#0#43"'*' undeclared (first use in this function)0(23@13"At top level:367159075#1970#73#0(6@57"/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m367159071#0#0#0#0#0"0(4@29"Expected ':' before '-' token367159075#2043#100#0(6@57"/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m367159071#284#0#284#0#19"expected * before *0(22@54"Local declaration of 'mapView' hides instance variable367159075#2267#127#0(6@57"/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m367159071#309#0#309#0#0"0(22@159"Conflicting types for '-(void)mapView:(MKMapView *)mapView annotationView:(MKAnnotationView *)view didChangeDragState:(int)newState fromOldState:(int)oldState'367159075#2547#232#0(6@57"/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m367159071#401#0#401#0#25"conflicting types for '*'0(22@205"Previous declaration of '-(void)mapView:(MKMapView *)mapView annotationView:(MKAnnotationView *)view didChangeDragState:(MKAnnotationViewDragState)newState fromOldState:(MKAnnotationViewDragState)oldState'367159075#2779#370#0(6@149"/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKMapView.h309420237#170#0#170#0#0"0(23@13"At top level:367159075#3149#73#0(6@57"/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m367159071#0#0#0#0#0"0(22@140"Property 'curLocAnnotation' requires method '-curLocAnnotation' to be defined - use @synthesize, @dynamic or provide a method implementation367159075#3222#213#0(6@57"/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m367159071#532#0#532#0#0"0(22@147"Property 'curLocAnnotation' requires the method 'setCurLocAnnotation:' to be defined - use @synthesize, @dynamic or provide a method implementation367159075#3435#220#0(6@57"/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m367159071#532#0#532#0#0"0(22@128"Property 'coordinate' requires method '-coordinate' to be defined - use @synthesize, @dynamic or provide a method implementation367159075#3655#201#0(6@57"/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m367159071#532#0#532#0#0"0(0#0#57"/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m8624989056#1783"    cd /Users/jono/Documents/TEST7    setenv LANG en_US.US-ASCII    setenv PATH "/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-generated-files.hmap -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-own-target-headers.hmap -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-all-target-headers.hmap -iquote /Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-project-headers.hmap -F/Users/jono/Documents/TEST7/build/Debug-iphonesimulator -I/Users/jono/Documents/TEST7/build/Debug-iphonesimulator/include -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/DerivedSources/i386 -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/DerivedSources -include /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapU_Prefix-hhltblkvvsmtmtftgtfiykisqlfb/MapU_Prefix.pch -c /Users/jono/Documents/TEST7/Classes/TEST7ViewController.m -o /Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/TEST7ViewController.o1#
+
+CCompileC build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/main.o /Users/jono/Documents/TEST7/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s367159075.145119
+e367159075.211189
+r1
+xCompileC
+xbuild/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/main.o
+x/Users/jono/Documents/TEST7/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Compile /Users/jono/Documents/TEST7/main.m367159075#367159075#0(0"0(0#0#34"/Users/jono/Documents/TEST7/main.m8626941760#1745"    cd /Users/jono/Documents/TEST7    setenv LANG en_US.US-ASCII    setenv PATH "/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-generated-files.hmap -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-own-target-headers.hmap -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-all-target-headers.hmap -iquote /Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-project-headers.hmap -F/Users/jono/Documents/TEST7/build/Debug-iphonesimulator -I/Users/jono/Documents/TEST7/build/Debug-iphonesimulator/include -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/DerivedSources/i386 -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/DerivedSources -include /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapU_Prefix-hhltblkvvsmtmtftgtfiykisqlfb/MapU_Prefix.pch -c /Users/jono/Documents/TEST7/main.m -o /Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/jono/Documents/TEST7/Classes/SecondView.xib
+s367159073.189018
+e367159073.997029
+r1
+xCompileXIB
+x/Users/jono/Documents/TEST7/Classes/SecondView.xib
+lSLF07#2@33"CompileXIB Classes/SecondView.xib367159073#367159073#0(0"0(0#0#50"/Users/jono/Documents/TEST7/Classes/SecondView.xib8625414464#554"    cd /Users/jono/Documents/TEST7    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app/SecondView.nib /Users/jono/Documents/TEST7/Classes/SecondView.xib --sdk /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/jono/Documents/TEST7/MainWindow.xib
+s367159072.004782
+e367159072.621181
+r1
+xCompileXIB
+x/Users/jono/Documents/TEST7/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib367159072#367159072#0(0"0(0#0#42"/Users/jono/Documents/TEST7/MainWindow.xib8625395616#546"    cd /Users/jono/Documents/TEST7    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app/MainWindow.nib /Users/jono/Documents/TEST7/MainWindow.xib --sdk /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/jono/Documents/TEST7/TEST7ViewController.xib
+s367159072.621277
+e367159073.188065
+r1
+xCompileXIB
+x/Users/jono/Documents/TEST7/TEST7ViewController.xib
+lSLF07#2@34"CompileXIB TEST7ViewController.xib367159072#367159073#0(0"0(0#0#51"/Users/jono/Documents/TEST7/TEST7ViewController.xib8626908320#564"    cd /Users/jono/Documents/TEST7    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app/TEST7ViewController.nib /Users/jono/Documents/TEST7/TEST7ViewController.xib --sdk /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/MapU.app/CrossHair.png CrossHair.png
+s367159073.997139
+e367159074.024733
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MapU.app/CrossHair.png
+xCrossHair.png
+lSLF07#2@18"Copy CrossHair.png367159073#367159074#0(0"0(0#0#41"/Users/jono/Documents/TEST7/CrossHair.png8621779680#444"    cd /Users/jono/Documents/TEST7    setenv PATH "/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jono/Documents/TEST7/CrossHair.png /Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app0#
+
+CCpResource build/Debug-iphonesimulator/MapU.app/EYE.jpg EYE.jpg
+s367159073.188136
+e367159073.245546
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MapU.app/EYE.jpg
+xEYE.jpg
+lSLF07#2@12"Copy EYE.jpg367159073#367159073#0(0"0(0#0#35"/Users/jono/Documents/TEST7/EYE.jpg8625538496#438"    cd /Users/jono/Documents/TEST7    setenv PATH "/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jono/Documents/TEST7/EYE.jpg /Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app0#
+
+CGenerateDSYMFile /Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app.dSYM /Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app/MapU
+s367158818.127268
+e367158818.152585
+r1
+xGenerateDSYMFile
+x/Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app.dSYM
+x/Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app/MapU
+lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/MapU.app.dSYM build/Debug-iphonesimulator/MapU.app/MapU367158818#367158818#0(0"0(0#0#69"/Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app/MapU8626119904#350"    cd /Users/jono/Documents/TEST7    setenv PATH "/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/usr/bin/dsymutil /Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app/MapU -o /Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app.dSYM0#
+
+CLd /Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app/MapU normal i386
+s367158818.099650
+e367158818.127185
+r1
+xLd
+x/Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app/MapU
+xnormal
+xi386
+lSLF07#2@74"Link /Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app/MapU367158818#367158818#0(0"0(0#0#0"8626359840#905"    cd /Users/jono/Documents/TEST7    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/jono/Documents/TEST7/build/Debug-iphonesimulator -F/Users/jono/Documents/TEST7/build/Debug-iphonesimulator -filelist /Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/Objects-normal/i386/MapU.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -framework CoreLocation -framework MessageUI -o /Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app/MapU0#
+
+CProcessInfoPlistFile /Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app/Info.plist MapU-Info.plist
+s367159071.942438
+e367159072.004708
+r1
+xProcessInfoPlistFile
+x/Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app/Info.plist
+xMapU-Info.plist
+lSLF07#2@23"Process MapU-Info.plist367159071#367159072#0(0"0(0#0#43"/Users/jono/Documents/TEST7/MapU-Info.plist8625813664#443"    cd /Users/jono/Documents/TEST7    setenv PATH "/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MapU-Info.plist -genpkginfo /Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app/Info.plist0#
+
+CProcessPCH /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapU_Prefix-hhltblkvvsmtmtftgtfiykisqlfb/MapU_Prefix.pch.gch MapU_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s367159074.024826
+e367159075.144938
+r1
+xProcessPCH
+x/var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapU_Prefix-hhltblkvvsmtmtftgtfiykisqlfb/MapU_Prefix.pch.gch
+xMapU_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile MapU_Prefix.pch367159074#367159075#0(0"0(0#0#43"/Users/jono/Documents/TEST7/MapU_Prefix.pch8625684576#1651"    cd /Users/jono/Documents/TEST7    setenv LANG en_US.US-ASCII    setenv PATH "/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-generated-files.hmap -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-own-target-headers.hmap -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-all-target-headers.hmap -iquote /Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/MapU-project-headers.hmap -F/Users/jono/Documents/TEST7/build/Debug-iphonesimulator -I/Users/jono/Documents/TEST7/build/Debug-iphonesimulator/include -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/DerivedSources/i386 -I/Users/jono/Documents/TEST7/build/MapU.build/Debug-iphonesimulator/MapU.build/DerivedSources -c /Users/jono/Documents/TEST7/MapU_Prefix.pch -o /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapU_Prefix-hhltblkvvsmtmtftgtfiykisqlfb/MapU_Prefix.pch.gch0#
+
+CTouch /Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app
+s367158818.152662
+e367158818.155916
+r1
+xTouch
+x/Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app
+lSLF07#2@70"Touch /Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app367158818#367158818#0(0"0(0#0#0"8626041728#259"    cd /Users/jono/Documents/TEST7    setenv PATH "/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jono/Documents/TEST7/build/Debug-iphonesimulator/MapU.app0#
+

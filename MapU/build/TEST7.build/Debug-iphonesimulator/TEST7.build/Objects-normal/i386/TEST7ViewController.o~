@@ -1,0 +1,4 @@
+/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m: In function '-[TEST7ViewController keyboardWillShow:]':
+/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:80: warning: 'UIKeyboardBoundsUserInfoKey' is deprecated (declared at /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWindow.h:118)
+/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m: In function '-[TEST7ViewController PressTheButton:]':
+/Users/jono/Documents/TEST7/Classes/TEST7ViewController.m:236: warning: unused variable 'es'

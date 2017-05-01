@@ -1,0 +1,319 @@
+TJonStreetViewTST
+v7
+r0
+t367918854.334332
+cCheck dependencies
+cProcessInfoPlistFile /Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app/Info.plist JonStreetViewTST-Info.plist
+cCompileXIB /Users/jono/Documents/JonStreetViewTST/MainWindow.xib
+cCompileXIB /Users/jono/Documents/JonStreetViewTST/JonStreetViewTSTViewController.xib
+cProcessPCH /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JonStreetViewTST_Prefix-dpxamztouzmzpdazxfwrnrygqajj/JonStreetViewTST_Prefix.pch.gch JonStreetViewTST_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/Objects-normal/i386/main.o /Users/jono/Documents/JonStreetViewTST/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/Objects-normal/i386/JonStreetViewTSTAppDelegate.o /Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/Objects-normal/i386/JonStreetViewTSTViewController.o /Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/Objects-normal/i386/GoogleStreetViewAPI.o /Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app/JonStreetViewTST normal i386
+cGenerateDSYMFile /Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app.dSYM /Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app/JonStreetViewTST
+cTouch /Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app
+
+N/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/jono/Desktop/:Users:jono:Desktop:Google-Street-View-API-Wrapper/build/Debug-iphoneos/libGoogleStreetViewAPI.a
+c00000000503CAA46000000000000C8B0
+t1346153030
+s51376
+
+N/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTAppDelegate.h
+c00000000503CA0050000000000000210
+t1346150405
+s528
+i<UIKit/UIKit.h>
+
+N/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTAppDelegate.m
+c00000000503CA0050000000000000ABD
+t1346150405
+s2749
+i"JonStreetViewTSTAppDelegate.h"
+i"JonStreetViewTSTViewController.h"
+
+N/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.h
+c00000000503CD20800000000000003CB
+t1346163208
+s971
+i<UIKit/UIKit.h>
+i"GoogleStreetViewAPI.h"
+i"GoogleStreetViewAPIDelegate.h"
+
+N/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m
+c00000000503CED6E000000000000125B
+t1346170222
+s4699
+i"JonStreetViewTSTViewController.h"
+
+N/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.h
+c00000000503C95490000000000000535
+t1346147657
+s1333
+i<Foundation/Foundation.h>
+i"GoogleStreetViewAPIDelegate.h"
+
+N/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m
+c00000000503CEF3F0000000000000F72
+t1346170687
+s3954
+i"GoogleStreetViewAPI.h"
+
+N/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPIDelegate.h
+c000000004EE37DAA00000000000001A8
+t1323531690
+s424
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jono/Documents/JonStreetViewTST/JonStreetViewTSTViewController.xib
+c00000000503CC8480000000000006BCA
+t1346160712
+s27594
+
+N/Users/jono/Documents/JonStreetViewTST/JonStreetViewTST_Prefix.pch
+c00000000503CA00500000000000000C9
+t1346150405
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jono/Documents/JonStreetViewTST/MainWindow.xib
+c00000000503CA0050000000000004E95
+t1346150405
+s20117
+
+N/Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app
+t1346226054
+s238
+
+N/Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app.dSYM
+t1346226054
+s102
+
+N/Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app/Info.plist
+t1346226051
+s633
+
+N/Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app/JonStreetViewTST
+t1346226054
+s36060
+
+N/Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app/JonStreetViewTSTViewController.nib
+t1346226052
+s2191
+
+N/Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app/MainWindow.nib
+t1346226051
+s1141
+
+N/Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app/PkgInfo
+t1346226051
+s8
+
+N/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/Objects-normal/i386/GoogleStreetViewAPI.o
+t1346226053
+s27172
+
+N/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/Objects-normal/i386/JonStreetViewTST.LinkFileList
+c00000000503DC7830000000000000270
+t1346226051
+s624
+
+N/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/Objects-normal/i386/JonStreetViewTSTAppDelegate.o
+t1346226053
+s53996
+
+N/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/Objects-normal/i386/JonStreetViewTSTViewController.o
+t1346226053
+s66832
+
+N/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/Objects-normal/i386/main.o
+t1346226053
+s6316
+
+N/Users/jono/Documents/JonStreetViewTST/main.m
+c00000000503CA005000000000000016D
+t1346150405
+s365
+i<UIKit/UIKit.h>
+
+N/var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JonStreetViewTST_Prefix-dpxamztouzmzpdazxfwrnrygqajj/JonStreetViewTST_Prefix.pch.gch
+t1346226053
+s15453392
+
+NJonStreetViewTST-Info.plist
+c00000000503CA005000000000000038D
+t1346150405
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies367918851#367918851#0(0"0(0#1#0"8603249280#0"0#
+
+CCompileC build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/Objects-normal/i386/GoogleStreetViewAPI.o /Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s367918853.817793
+e367918853.914622
+r1
+xCompileC
+xbuild/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/Objects-normal/i386/GoogleStreetViewAPI.o
+x/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m:112: warning: method possibly missing a [super dealloc] call
+o/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m:114: warning: incomplete implementation of class 'GoogleStreetViewAPI'
+o/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m:114: warning: method definition for '-URLProtocol:didCancelAuthenticationChallenge:' not found
+o/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m:114: warning: method definition for '-URLProtocol:didReceiveAuthenticationChallenge:' not found
+o/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m:114: warning: method definition for '-URLProtocol:didFailWithError:' not found
+o/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m:114: warning: method definition for '-URLProtocolDidFinishLoading:' not found
+o/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m:114: warning: method definition for '-URLProtocol:didLoadData:' not found
+o/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m:114: warning: method definition for '-URLProtocol:didReceiveResponse:cacheStoragePolicy:' not found
+o/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m:114: warning: method definition for '-URLProtocol:cachedResponseIsValid:' not found
+o/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m:114: warning: method definition for '-URLProtocol:wasRedirectedToRequest:redirectResponse:' not found
+o/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m:114: warning: class 'GoogleStreetViewAPI' does not fully implement the 'NSURLProtocolClient' protocol
+lSLF07#2@88"Compile /Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m367918853#367918853#0(1833"/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m:112: warning: method possibly missing a [super dealloc] call/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m:114: warning: incomplete implementation of class 'GoogleStreetViewAPI'/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m:114: warning: method definition for '-URLProtocol:didCancelAuthenticationChallenge:' not found/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m:114: warning: method definition for '-URLProtocol:didReceiveAuthenticationChallenge:' not found/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m:114: warning: method definition for '-URLProtocol:didFailWithError:' not found/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m:114: warning: method definition for '-URLProtocolDidFinishLoading:' not found/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m:114: warning: method definition for '-URLProtocol:didLoadData:' not found/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m:114: warning: method definition for '-URLProtocol:didReceiveResponse:cacheStoragePolicy:' not found/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m:114: warning: method definition for '-URLProtocol:cachedResponseIsValid:' not found/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m:114: warning: method definition for '-URLProtocol:wasRedirectedToRequest:redirectResponse:' not found/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m:114: warning: class 'GoogleStreetViewAPI' does not fully implement the 'NSURLProtocolClient' protocol11(22@46"Method possibly missing a [super dealloc] call367918853#0#142#0(6@80"/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m367863487#112#0#112#0#46"method possibly missing a [super dealloc] call0(22@56"Incomplete implementation of class 'GoogleStreetViewAPI'367918853#142#152#0(6@80"/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m367863487#114#0#114#0#38"incomplete implementation of class '*'0(22@80"Method definition for '-URLProtocol:didCancelAuthenticationChallenge:' not found367918853#294#176#0(6@80"/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m367863487#114#0#114#0#35"method definition for '*' not found0(22@81"Method definition for '-URLProtocol:didReceiveAuthenticationChallenge:' not found367918853#470#177#0(6@80"/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m367863487#114#0#114#0#35"method definition for '*' not found0(22@64"Method definition for '-URLProtocol:didFailWithError:' not found367918853#647#160#0(6@80"/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m367863487#114#0#114#0#35"method definition for '*' not found0(22@63"Method definition for '-URLProtocolDidFinishLoading:' not found367918853#807#159#0(6@80"/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m367863487#114#0#114#0#35"method definition for '*' not found0(22@59"Method definition for '-URLProtocol:didLoadData:' not found367918853#966#155#0(6@80"/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m367863487#114#0#114#0#35"method definition for '*' not found0(22@85"Method definition for '-URLProtocol:didReceiveResponse:cacheStoragePolicy:' not found367918853#1121#181#0(6@80"/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m367863487#114#0#114#0#35"method definition for '*' not found0(22@69"Method definition for '-URLProtocol:cachedResponseIsValid:' not found367918853#1302#165#0(6@80"/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m367863487#114#0#114#0#35"method definition for '*' not found0(22@87"Method definition for '-URLProtocol:wasRedirectedToRequest:redirectResponse:' not found367918853#1467#183#0(6@80"/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m367863487#114#0#114#0#35"method definition for '*' not found0(22@87"Class 'GoogleStreetViewAPI' does not fully implement the 'NSURLProtocolClient' protocol367918853#1650#183#0(6@80"/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m367863487#114#0#114#0#51"class '*' does not fully implement the '*' protocol0(0#0#80"/Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m8618447200#2156"    cd /Users/jono/Documents/JonStreetViewTST    setenv LANG en_US.US-ASCII    setenv PATH "/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/JonStreetViewTST-generated-files.hmap -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/JonStreetViewTST-own-target-headers.hmap -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/JonStreetViewTST-all-target-headers.hmap -iquote /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/JonStreetViewTST-project-headers.hmap -F/Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator -I/Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/include -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/DerivedSources/i386 -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/DerivedSources -include /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JonStreetViewTST_Prefix-dpxamztouzmzpdazxfwrnrygqajj/JonStreetViewTST_Prefix.pch -c /Users/jono/Documents/JonStreetViewTST/GoogleStreetViewAPI/GoogleStreetViewAPI.m -o /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/Objects-normal/i386/GoogleStreetViewAPI.o0#
+
+CCompileC build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/Objects-normal/i386/JonStreetViewTSTAppDelegate.o /Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s367918853.637626
+e367918853.721834
+r1
+xCompileC
+xbuild/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/Objects-normal/i386/JonStreetViewTSTAppDelegate.o
+x/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTAppDelegate.m367918853#367918853#0(0"0(0#0#76"/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTAppDelegate.m8620632032#2160"    cd /Users/jono/Documents/JonStreetViewTST    setenv LANG en_US.US-ASCII    setenv PATH "/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/JonStreetViewTST-generated-files.hmap -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/JonStreetViewTST-own-target-headers.hmap -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/JonStreetViewTST-all-target-headers.hmap -iquote /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/JonStreetViewTST-project-headers.hmap -F/Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator -I/Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/include -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/DerivedSources/i386 -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/DerivedSources -include /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JonStreetViewTST_Prefix-dpxamztouzmzpdazxfwrnrygqajj/JonStreetViewTST_Prefix.pch -c /Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTAppDelegate.m -o /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/Objects-normal/i386/JonStreetViewTSTAppDelegate.o0#
+
+CCompileC build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/Objects-normal/i386/JonStreetViewTSTViewController.o /Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s367918853.721922
+e367918853.817713
+r1
+xCompileC
+xbuild/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/Objects-normal/i386/JonStreetViewTSTViewController.o
+x/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m: In function '-[JonStreetViewTSTViewController viewDidLoad]':
+o/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m:48: warning: class 'JonStreetViewTSTViewController' does not implement the 'UIGestureRecognizerDelegate' protocol
+o/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m: At top level:
+o/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m:164: warning: method possibly missing a [super dealloc] call
+lSLF07#2@87"Compile /Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m367918853#367918853#0(572"/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m: In function '-[JonStreetViewTSTViewController viewDidLoad]':/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m:48: warning: class 'JonStreetViewTSTViewController' does not implement the 'UIGestureRecognizerDelegate' protocol/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m: At top level:/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m:164: warning: method possibly missing a [super dealloc] call3(22@100"Class 'JonStreetViewTSTViewController' does not implement the 'UIGestureRecognizerDelegate' protocol367918853#142#194#0(6@79"/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m367863022#48#0#48#0#45"class '*' does not implement the '*' protocol0(23@13"At top level:367918853#336#95#0(6@79"/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m367863022#0#0#0#0#0"0(22@46"Method possibly missing a [super dealloc] call367918853#431#141#0(6@79"/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m367863022#164#0#164#0#46"method possibly missing a [super dealloc] call0(0#0#79"/Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m8616830784#2166"    cd /Users/jono/Documents/JonStreetViewTST    setenv LANG en_US.US-ASCII    setenv PATH "/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/JonStreetViewTST-generated-files.hmap -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/JonStreetViewTST-own-target-headers.hmap -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/JonStreetViewTST-all-target-headers.hmap -iquote /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/JonStreetViewTST-project-headers.hmap -F/Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator -I/Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/include -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/DerivedSources/i386 -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/DerivedSources -include /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JonStreetViewTST_Prefix-dpxamztouzmzpdazxfwrnrygqajj/JonStreetViewTST_Prefix.pch -c /Users/jono/Documents/JonStreetViewTST/Classes/JonStreetViewTSTViewController.m -o /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/Objects-normal/i386/JonStreetViewTSTViewController.o0#
+
+CCompileC build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/Objects-normal/i386/main.o /Users/jono/Documents/JonStreetViewTST/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s367918853.552845
+e367918853.637539
+r1
+xCompileC
+xbuild/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/Objects-normal/i386/main.o
+x/Users/jono/Documents/JonStreetViewTST/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/jono/Documents/JonStreetViewTST/main.m367918853#367918853#0(0"0(0#0#45"/Users/jono/Documents/JonStreetViewTST/main.m8623224512#2106"    cd /Users/jono/Documents/JonStreetViewTST    setenv LANG en_US.US-ASCII    setenv PATH "/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/JonStreetViewTST-generated-files.hmap -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/JonStreetViewTST-own-target-headers.hmap -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/JonStreetViewTST-all-target-headers.hmap -iquote /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/JonStreetViewTST-project-headers.hmap -F/Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator -I/Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/include -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/DerivedSources/i386 -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/DerivedSources -include /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JonStreetViewTST_Prefix-dpxamztouzmzpdazxfwrnrygqajj/JonStreetViewTST_Prefix.pch -c /Users/jono/Documents/JonStreetViewTST/main.m -o /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/jono/Documents/JonStreetViewTST/JonStreetViewTSTViewController.xib
+s367918851.957341
+e367918852.623538
+r1
+xCompileXIB
+x/Users/jono/Documents/JonStreetViewTST/JonStreetViewTSTViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@45"CompileXIB JonStreetViewTSTViewController.xib367918851#367918852#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#73"/Users/jono/Documents/JonStreetViewTST/JonStreetViewTSTViewController.xib8620294496#631"    cd /Users/jono/Documents/JonStreetViewTST    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app/JonStreetViewTSTViewController.nib /Users/jono/Documents/JonStreetViewTST/JonStreetViewTSTViewController.xib --sdk /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/jono/Documents/JonStreetViewTST/MainWindow.xib
+s367918851.327349
+e367918851.957272
+r1
+xCompileXIB
+x/Users/jono/Documents/JonStreetViewTST/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib367918851#367918851#0(0"0(0#0#53"/Users/jono/Documents/JonStreetViewTST/MainWindow.xib8619929760#591"    cd /Users/jono/Documents/JonStreetViewTST    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app/MainWindow.nib /Users/jono/Documents/JonStreetViewTST/MainWindow.xib --sdk /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app.dSYM /Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app/JonStreetViewTST
+s367918854.291423
+e367918854.330506
+r1
+xGenerateDSYMFile
+x/Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app.dSYM
+x/Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app/JonStreetViewTST
+lSLF07#2@136"GenerateDSYMFile build/Debug-iphonesimulator/JonStreetViewTST.app.dSYM build/Debug-iphonesimulator/JonStreetViewTST.app/JonStreetViewTST367918854#367918854#0(0"0(0#0#104"/Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app/JonStreetViewTST8611621120#419"    cd /Users/jono/Documents/JonStreetViewTST    setenv PATH "/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/usr/bin/dsymutil /Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app/JonStreetViewTST -o /Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app.dSYM0#
+
+CLd /Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app/JonStreetViewTST normal i386
+s367918853.914785
+e367918854.291245
+r1
+xLd
+x/Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app/JonStreetViewTST
+xnormal
+xi386
+old: warning: directory '/Users/jono/Documents/JonStreetViewTST/../../Desktop/Google-Street-View-API-Wrapper/build/Debug-iphoneos' following -L not found
+old: warning: in /Users/jono/Desktop/:Users:jono:Desktop:Google-Street-View-API-Wrapper/build/Debug-iphoneos/libGoogleStreetViewAPI.a, missing required architecture i386 in file
+lSLF07#2@109"Link /Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app/JonStreetViewTST367918853#367918854#0(330"ld: warning: directory '/Users/jono/Documents/JonStreetViewTST/../../Desktop/Google-Street-View-API-Wrapper/build/Debug-iphoneos' following -L not foundld: warning: in /Users/jono/Desktop/:Users:jono:Desktop:Google-Street-View-API-Wrapper/build/Debug-iphoneos/libGoogleStreetViewAPI.a, missing required architecture i386 in file2(22@139"Directory '/Users/jono/Documents/JonStreetViewTST/../../Desktop/Google-Street-View-API-Wrapper/build/Debug-iphoneos' following -L not found367918854#0#153#0(6@0"367918854#0#0#0#0#0"0(22@163"In /Users/jono/Desktop/:Users:jono:Desktop:Google-Street-View-API-Wrapper/build/Debug-iphoneos/libGoogleStreetViewAPI.a, missing required architecture i386 in file367918854#153#177#0(6@0"367918854#0#0#0#0#0"0(0#0#0"8620141792#1213"    cd /Users/jono/Documents/JonStreetViewTST    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator -L/Users/jono/Documents/JonStreetViewTST/../../Desktop/Google-Street-View-API-Wrapper/build/Debug-iphoneos -L/Users/jono/Documents/JonStreetViewTST/../../Desktop/:Users:jono:Desktop:Google-Street-View-API-Wrapper/build/Debug-iphoneos -F/Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator -filelist /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/Objects-normal/i386/JonStreetViewTST.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lGoogleStreetViewAPI -o /Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app/JonStreetViewTST0#
+
+CProcessInfoPlistFile /Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app/Info.plist JonStreetViewTST-Info.plist
+s367918851.278154
+e367918851.327283
+r1
+xProcessInfoPlistFile
+x/Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app/Info.plist
+xJonStreetViewTST-Info.plist
+lSLF07#2@35"Process JonStreetViewTST-Info.plist367918851#367918851#0(0"0(0#0#66"/Users/jono/Documents/JonStreetViewTST/JonStreetViewTST-Info.plist8620248768#512"    cd /Users/jono/Documents/JonStreetViewTST    setenv PATH "/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility JonStreetViewTST-Info.plist -genpkginfo /Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app/Info.plist0#
+
+CProcessPCH /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JonStreetViewTST_Prefix-dpxamztouzmzpdazxfwrnrygqajj/JonStreetViewTST_Prefix.pch.gch JonStreetViewTST_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s367918852.623703
+e367918853.552660
+r1
+xProcessPCH
+x/var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JonStreetViewTST_Prefix-dpxamztouzmzpdazxfwrnrygqajj/JonStreetViewTST_Prefix.pch.gch
+xJonStreetViewTST_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile JonStreetViewTST_Prefix.pch367918852#367918853#0(0"0(0#0#66"/Users/jono/Documents/JonStreetViewTST/JonStreetViewTST_Prefix.pch8616831936#1989"    cd /Users/jono/Documents/JonStreetViewTST    setenv LANG en_US.US-ASCII    setenv PATH "/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer4_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/JonStreetViewTST-generated-files.hmap -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/JonStreetViewTST-own-target-headers.hmap -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/JonStreetViewTST-all-target-headers.hmap -iquote /Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/JonStreetViewTST-project-headers.hmap -F/Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator -I/Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/include -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/DerivedSources/i386 -I/Users/jono/Documents/JonStreetViewTST/build/JonStreetViewTST.build/Debug-iphonesimulator/JonStreetViewTST.build/DerivedSources -c /Users/jono/Documents/JonStreetViewTST/JonStreetViewTST_Prefix.pch -o /var/folders/By/BywGXDIVHveI+Aboo3tqeE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JonStreetViewTST_Prefix-dpxamztouzmzpdazxfwrnrygqajj/JonStreetViewTST_Prefix.pch.gch0#
+
+CTouch /Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app
+s367918854.330571
+e367918854.334305
+r1
+xTouch
+x/Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app
+lSLF07#2@93"Touch /Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app367918854#367918854#0(0"0(0#0#0"8620124192#293"    cd /Users/jono/Documents/JonStreetViewTST    setenv PATH "/Developer4_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer4_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jono/Documents/JonStreetViewTST/build/Debug-iphonesimulator/JonStreetViewTST.app0#
+
